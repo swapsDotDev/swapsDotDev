@@ -37,9 +37,10 @@ From frontend finesse in React to backend APIs in Node, Python, and Spring Boot�
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [swapsDotDev/avkash-leave-portal](https://github.com/swapsDotDev/avkash-leave-portal)
-2. 🎉 Deployed portfolio site [swapnildotdev.vercel.app](https://swapnildotdev.vercel.app)
-3. 🔧 Working on backend microservices using Spring Boot + Kafka
+1. 📔 Created new repository [swapsDotDev/civic voice](https://github.com/swapsDotDev/civic-voice)
+2. 📔 Created new repository [swapsDotDev/Avkash-Leave Portal and HRMS](https://github.com/swapsDotDev/Avkash)
+3. 🎉 Deployed portfolio site [swapnildotdev.vercel.app](https://swapnildotdev.vercel.app)
+4. 🔧 Working on backend microservices using Spring Boot + Kafka
 
 <!--RECENT_ACTIVITY:end-->
 
@@ -88,7 +89,7 @@ Last Updated: Wednesday, July 23th, 2025, 18:42:10 PM
   <b>Software Developer Intern</b> — Jan 2025 – Present
 
 # Projects
-- [Avkash - Leave Portal & HRMS](https://github.com/swapsDotDev/avkash-leave-portal) | React, Python, FastAPI, MongoDB
+- [Avkash - Leave Portal & HRMS](https://github.com/swapsDotDev/Avkash) | React, Python, FastAPI, MongoDB
 - [URL Shortener](https://github.com/swapsDotDev/url-shortener) | Flask, MySQL, GitHub Actions
 - [Movie Database App](https://github.com/swapsDotDev/movie-db-app) | React, OMDb API
 - [Portfolio Website](https://swapnildotdev.vercel.app/) | React, TailwindCSS, TypeScript, Vite
@@ -100,14 +101,17 @@ Last Updated: Wednesday, July 23th, 2025, 18:42:10 PM
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 ### Backend
-<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+### Databases
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 
 ### Tools & Platforms
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 ### Deployment Platforms
-
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black">
+
 
 
 
@@ -140,15 +144,10 @@ Last Updated: Wednesday, July 23th, 2025, 18:42:10 PM
 
 # Quick Links
 
-<a href="https://www.linkedin.com/in/sakalya-mitra/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1Nz-lEEgYgSKnOTPbYz5gD_L-H4OSi0ck/view?usp=sharing"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
-<a href="mailto:sakalyamitra@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/sakalya21/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/sakalya_mitra"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/swapnilkale1411/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:swapnilkale1411@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
 
-# Support Me
 
-If you like the value I provide and want to support, maybe consider buying me a book so that I can work more on my skills and produce more value added content 🙌
-<br><br>
-<a href="https://www.buymeacoffee.com/sakalya.mitra"><img height="40" src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=anirudhbelwadi&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff"></a>
+
 
